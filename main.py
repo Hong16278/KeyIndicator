@@ -305,12 +305,12 @@ class ConfigManager:
             "y": None,
             "monitored_keys": ["caps lock", "shift"],
             "close_action": "ask",
-            "bg_color": "#1e1e1e",
-            "text_color": "#ffffff",
-            "border_color": "#444444",
-            "font_size": 16,
+            "bg_color": "#000000",
+            "text_color": "#84ffa3",
+            "border_color": "#77ffff",
+            "font_size": 17,
             "opacity": 0.8,
-            "corner_radius": 10
+            "corner_radius": 100
         }
         
         try:
@@ -445,12 +445,12 @@ class ConfigManager:
             "y": None,
             "monitored_keys": ["caps lock", "shift"],
             "close_action": "ask",
-            "bg_color": "#1e1e1e",
-            "text_color": "#ffffff",
-            "border_color": "#444444",
-            "font_size": 16,
+            "bg_color": "#000000",
+            "text_color": "#84ffa3",
+            "border_color": "#77ffff",
+            "font_size": 17,
             "opacity": 0.8,
-            "corner_radius": 10
+            "corner_radius": 100
         }
         self.save_config()
 
