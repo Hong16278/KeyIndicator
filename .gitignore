@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller artifacts
+build/
+dist/
+*.spec
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Local configuration
+config.json
